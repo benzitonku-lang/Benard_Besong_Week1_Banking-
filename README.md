@@ -42,23 +42,22 @@ The analysis follows these steps:
 ```text
 Benard_Besong_Week1_Finance/
 │
-├── 01_Raw_Data./
+├── 01_Raw_Data/
 │   └── Raw_Dataset.csv
 │
-├── 02_Cleaned_Data./
+├── 02_Cleaned_Data/
 │   └── Cleaned_Dataset.xlsx
 │
-├── 03_Excel_Analysis./
+├── 03_Excel_Analysis/
 │   └── Finance_Data.xlsx
 │
-├── 05_Visualizations./
+├── 04_Visualizations/
 │   └── Dashboard_Screenshot.png
 │
-├── 06_Documentation./
+├── 05_Documentation/
 │   └── Beenard_Besong_Week1_Documentation.pdf
 │
 └── README.md
-```
 
 ## 8. Expected Outcomes
 The project aims to produce a clearer understanding of respondents' investment behaviour, summarize important patterns, and communicate findings through KPIs and other relevant analytical outputs.
