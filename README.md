@@ -39,7 +39,6 @@ The analysis follows these steps:
 
 ## 7. Project Structure
 
-```text
 Benard_Besong_Week1_Banking-/
 │
 ├── [01_Raw_Data](./01_Raw_Data)
@@ -58,7 +57,7 @@ Benard_Besong_Week1_Banking-/
 │   └── [Beenard_Besong_Week1_Documentation.pdf](./05_Documentation/Beenard_Besong_Week1_Documentation.pdf)
 │
 └── README.md
-```
+
 ## 8. Expected Outcomes
 The project aims to produce a clearer understanding of respondents' investment behaviour, summarize important patterns, and communicate findings through KPIs and other relevant analytical outputs.
 
