@@ -39,24 +39,26 @@ The analysis follows these steps:
 
 ## 7. Project Structure
 
-Benard_Besong_Week1_Banking-/
+```` text
+Benard_Besong_Week1_Finance/
 │
-├── [01_Raw_Data](./01_Raw_Data)
-│   └── [Raw_Dataset.csv](./01_Raw_Data/Raw_Dataset.csv)
+├── 01_Raw_Data/
+│   └── Raw_Dataset.csv
 │
-├── [02_Cleaned_Data](./02_Cleaned_Data)
-│   └── [Cleaned_Dataset.xlsx](./02_Cleaned_Data/Cleaned_Dataset.xlsx)
+├── 02_Cleaned_Data/
+│   └── Cleaned_Dataset.xlsx
 │
-├── [03_Excel_Analysis](./03_Excel_Analysis)
-│   └── [Finance_Data.xlsx](./03_Excel_Analysis/Finance_Data.xlsx)
+├── 03_Excel_Analysis/
+│   └── Finance_Data.xlsx
 │
-├── [04_Visualizations](./04_Visualizations)
-│   └── [Dashboard_Screenshot.png](./04_Visualizations/Dashboard_Screenshot.png)
+├── 05_Visualizations/
+│   └── Dashboard_Screenshot.png
 │
-├── [05_Documentation](./05_Documentation)
-│   └── [Beenard_Besong_Week1_Documentation.pdf](./05_Documentation/Beenard_Besong_Week1_Documentation.pdf)
+├── 06_Documentation/
+│   └── Beenard_Besong_Week1_Documentation.pdf
 │
-└── README.md
+└── README.md this is how it reflected there pls put it it the right format
+````
 
 ## 8. Expected Outcomes
 The project aims to produce a clearer understanding of respondents' investment behaviour, summarize important patterns, and communicate findings through KPIs and other relevant analytical outputs.
