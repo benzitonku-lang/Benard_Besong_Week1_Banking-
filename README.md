@@ -40,22 +40,22 @@ The analysis follows these steps:
 ## 7. Project Structure
 
 ```text
-Benard_Besong_Week1_Finance/
+Benard_Besong_Week1_Banking-/
 │
-├── 01_Raw_Data/
-│   └── Raw_Dataset.csv
+├── [01_Raw_Data](./01_Raw_Data)
+│   └── [Raw_Dataset.csv](./01_Raw_Data/Raw_Dataset.csv)
 │
-├── 02_Cleaned_Data/
-│   └── Cleaned_Dataset.xlsx
+├── [02_Cleaned_Data](./02_Cleaned_Data)
+│   └── [Cleaned_Dataset.xlsx](./02_Cleaned_Data/Cleaned_Dataset.xlsx)
 │
-├── 03_Excel_Analysis/
-│   └── Finance_Data.xlsx
+├── [03_Excel_Analysis](./03_Excel_Analysis)
+│   └── [Finance_Data.xlsx](./03_Excel_Analysis/Finance_Data.xlsx)
 │
-├── 04_Visualizations/
-│   └── Dashboard_Screenshot.png
+├── [04_Visualizations](./04_Visualizations)
+│   └── [Dashboard_Screenshot.png](./04_Visualizations/Dashboard_Screenshot.png)
 │
-├── 05_Documentation/
-│   └── Beenard_Besong_Week1_Documentation.pdf
+├── [05_Documentation](./05_Documentation)
+│   └── [Beenard_Besong_Week1_Documentation.pdf](./05_Documentation/Beenard_Besong_Week1_Documentation.pdf)
 │
 └── README.md
 
